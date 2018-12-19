@@ -1,0 +1,32 @@
+\documentclass [a4paper] {article} % landscape
+\input {../../latex/packages}
+\input {../../latex/tikzcards}
+\geometry {hmargin = 5mm, vmargin = 10mm}
+\begin {document}
+\begin {center}
+  \begin {tabular}{@{}c@{\hspace {2mm}}c@{\hspace {2mm}}c@{}}
+  \input {./0_front.tex} &
+  \input {./1_front.tex} &
+  \input {./2_front.tex} \\
+  \input {./3_front.tex} &
+  \input {./4_front.tex} &
+  \input {./5_front.tex} \\
+  \input {./6_front.tex} &
+  \input {./7_front.tex} &
+  \input {./8_front.tex} \\
+  \end {tabular}
+\end {center}
+\begin {center}
+  \begin {tabular}{@{}c@{\hspace {2mm}}c@{\hspace {2mm}}c@{}}
+  \input {./2_back.tex} &
+  \input {./1_back.tex} &
+  \input {./0_back.tex} \\
+  \input {./5_back.tex} &
+  \input {./4_back.tex} &
+  \input {./3_back.tex} \\
+  \input {./8_back.tex} &
+  \input {./7_back.tex} &
+  \input {./6_back.tex} \\
+  \end {tabular}
+\end {center}
+\end {document}
