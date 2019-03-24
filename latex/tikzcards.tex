@@ -14,7 +14,7 @@
 \pgfmathsetmacro{\cardheight}{8.875}
 %% height of a card in cm. 8.875 = 3.5 in
 
-\pgfmathsetmacro{\borderwidth}{0.3}%{0.0167*\cardwidth}%{0.1}
+\pgfmathsetmacro{\borderwidth}{0.3}%{0.0167*\cardwidth}%{0.1}f
 %% white border around the card
 
 \pgfmathsetmacro{\imagewidth}{1*\cardwidth-2*\borderwidth}
@@ -52,7 +52,7 @@
 \def\shapeBackground{(\borderwidth,\borderwidth) rectangle (\cardwidth-\borderwidth,\cardheight-\borderwidth)}
 %% main rectangle of cards, where the image is printed
 
-\pgfmathsetmacro{\titley}{\strippadding+1*\stripwidth+\borderwidth}
+\pgfmathsetmacro{\titley}{\strippadding+0.5*\stripwidths}
 %% vertical position of title : center of area
 \pgfmathsetmacro{\titlex}{\stripwidth + 2*\strippadding + \borderwidth + \textpadding + 0.5*(\cardwidth-\stripwidth-3*\strippadding-2*\borderwidth-2*\textpadding)}
 %% vertical position of title : center of area
@@ -167,5 +167,5 @@
 \newcommand{\cardtypeGame}{\cardtype{gamebg}{{Jeux vidéos}}}
 \newcommand{\cardtypeWeb}{\cardtype{webbg}{{Réseaux et web}}}
 \newcommand{\cardtypeMan}{\cardtype{manbg}{{Personnalité}}}
-\newcommand{\cardtypeUniv}{\cardtype{univbg}{{Institution}}}
+%\newcommand{\cardtypeUniv}{\cardtype{univbg}{{Institution}}}
 
