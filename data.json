@@ -1,100 +1,315 @@
 [
-    {
-      "vertical": "pariatur",
-      "horizontal": "Lorem",
-      "front": "eiusmod",
-      "back": [
-        "Labore cillum laboris enim consectetur.",
-        "Minim ad sint cupidatat nisi mollit."
-      ]
-    },
-    {
-      "vertical": "minim",
-      "horizontal": "ad",
-      "front": "incididunt",
-      "back": [
-        "Non nulla voluptate aliqua minim.",
-        "Ea dolore non ipsum minim labore pariatur adipisicing amet minim culpa mollit dolor reprehenderit."
-      ]
-    },
-    {
-      "vertical": "consequat",
-      "horizontal": "nisi",
-      "front": "deserunt",
-      "back": [
-        "Magna nulla consectetur commodo tempor anim mollit officia elit commodo magna adipisicing anim tempor.",
-        "Mollit proident do ipsum ullamco amet esse Lorem laborum in.",
-        "Ad ullamco exercitation irure occaecat deserunt in officia quis voluptate culpa."
-      ]
-    },
-    {
-      "vertical": "aliquip",
-      "horizontal": "in",
-      "front": "consectetur",
-      "back": [
-        "Laboris deserunt sint consectetur elit nostrud sit dolore et.",
-        "Est consequat mollit ullamco commodo ex excepteur officia nulla."
-      ]
-    },
-    {
-      "vertical": "mollit",
-      "horizontal": "et",
-      "front": "reprehenderit",
-      "back": [
-        "Esse deserunt non aliquip ex pariatur veniam consequat magna nulla dolor magna.",
-        "Tempor ea anim adipisicing reprehenderit voluptate sunt pariatur.",
-        "Et ipsum nisi et exercitation ex pariatur elit voluptate ullamco velit in proident."
-      ]
-    },
-    {
-      "vertical": "enim",
-      "horizontal": "enim",
-      "front": "labore",
-      "back": [
-        "Duis labore consectetur incididunt nostrud esse exercitation."
-      ]
-    },
-    {
-      "vertical": "reprehenderit",
-      "horizontal": "mollit",
-      "front": "velit",
-      "back": [
-        "Nisi amet reprehenderit elit qui amet cupidatat eu deserunt ea ut.",
-        "Qui dolore exercitation deserunt minim."
-      ]
-    },
-    {
-      "vertical": "et",
-      "horizontal": "nostrud",
-      "front": "sunt",
-      "back": [
-        "Aliquip magna ad nostrud duis eiusmod incididunt eiusmod proident magna esse mollit reprehenderit."
-      ]
-    },
-    {
-      "vertical": "commodo",
-      "horizontal": "aliqua",
-      "front": "eu",
-      "back": [
-        "Adipisicing aute esse non est occaecat sunt nulla.",
-        "Ipsum magna consectetur eu dolore Lorem qui."
-      ]
-    },
-    {
-      "vertical": "laboris",
-      "horizontal": "esse",
-      "front": "duis",
-      "back": [
-        "Ex sit cupidatat aliquip in magna excepteur sit sint occaecat commodo sint.",
-        "Excepteur voluptate proident aute laborum qui aliquip laborum ullamco veniam dolore irure laborum dolore."
-      ]
-    },
-    {
-      "vertical": "id",
-      "horizontal": "consequat",
-      "front": "id",
-      "back": [
-        "Et tempor anim laborum dolore culpa duis amet veniam incididunt mollit consectetur."
-      ]
-    }
-  ]
+  {
+    "_id": "5c98457b6a108f32ac22db24",
+    "index": 0,
+    "word": "aliquip",
+    "definition": [
+      "Voluptate in cillum veniam mollit nulla voluptate labore.",
+      "Anim dolor reprehenderit minim commodo laboris Lorem ad ut quis quis nostrud ullamco minim proident.",
+      "Cillum excepteur eu irure consequat est officia ut proident.",
+      "Nulla elit minim sit labore quis id."
+    ]
+  },
+  {
+    "_id": "5c98457bed85f32686a41a0e",
+    "index": 1,
+    "word": "non",
+    "definition": [
+      "Reprehenderit amet dolore aliquip esse veniam aliqua cupidatat in quis sunt.",
+      "Ullamco deserunt laboris officia sunt do ipsum consectetur aliqua nostrud excepteur officia occaecat enim ullamco.",
+      "Quis cupidatat adipisicing veniam reprehenderit aute.",
+      "Minim excepteur eu enim dolore in cupidatat consectetur proident exercitation nostrud dolore cupidatat elit culpa.",
+      "Occaecat sit sit aliqua adipisicing ut culpa proident sit commodo."
+    ]
+  },
+  {
+    "_id": "5c98457b841bd65ac5fe8e7f",
+    "index": 2,
+    "word": "cupidatat",
+    "definition": [
+      "Eiusmod anim deserunt incididunt minim Lorem consequat id eiusmod eu.",
+      "Tempor enim et ut aliquip voluptate id anim aliqua nisi ea ipsum sunt enim.",
+      "Pariatur consectetur nisi et ad ut tempor sint."
+    ]
+  },
+  {
+    "_id": "5c98457b9defa656e3660ef6",
+    "index": 3,
+    "word": "sunt",
+    "definition": [
+      "Minim aute amet irure veniam nostrud ad pariatur adipisicing ullamco.",
+      "Excepteur et dolor velit sunt quis pariatur consequat aliqua enim proident aliquip aliquip elit.",
+      "Irure Lorem eu laborum sit tempor non proident laborum est.",
+      "Adipisicing qui id excepteur veniam esse velit ex tempor ad aute exercitation ullamco et.",
+      "Minim ea adipisicing velit cillum deserunt excepteur culpa tempor labore irure pariatur officia."
+    ]
+  },
+  {
+    "_id": "5c98457b4b5e2a0b8a90299f",
+    "index": 4,
+    "word": "proident",
+    "definition": [
+      "Labore minim aliqua enim aliquip ea sit.",
+      "Incididunt reprehenderit reprehenderit elit voluptate.",
+      "Excepteur tempor voluptate eu qui voluptate amet reprehenderit veniam minim consectetur enim irure.",
+      "Fugiat voluptate ex ipsum tempor ullamco."
+    ]
+  },
+  {
+    "_id": "5c98457bd7dc27a01f031b88",
+    "index": 5,
+    "word": "reprehenderit",
+    "definition": [
+      "Id Lorem nostrud occaecat sit eu eiusmod commodo consequat ex cillum.",
+      "Fugiat quis enim qui adipisicing fugiat laborum nostrud dolor consequat excepteur dolore.",
+      "Esse in adipisicing nisi id est in minim esse exercitation.",
+      "Nulla sint cupidatat cillum adipisicing esse consectetur."
+    ]
+  },
+  {
+    "_id": "5c98457b385781fd13bbd56e",
+    "index": 6,
+    "word": "enim",
+    "definition": [
+      "Dolore deserunt voluptate do ullamco et elit.",
+      "Est nisi aliqua duis et id amet id eiusmod amet consectetur labore reprehenderit incididunt non.",
+      "Nisi mollit tempor aliqua non irure reprehenderit et nisi culpa id.",
+      "Commodo ullamco labore ipsum aute aute est tempor.",
+      "Do nostrud non aliqua laborum voluptate ipsum amet amet excepteur."
+    ]
+  },
+  {
+    "_id": "5c98457b91d27417c2c13a6d",
+    "index": 7,
+    "word": "elit",
+    "definition": [
+      "Labore enim proident irure quis esse esse dolore.",
+      "Lorem labore dolore sit fugiat magna exercitation.",
+      "Cillum sit Lorem laboris aliquip cupidatat ullamco mollit ea.",
+      "Irure culpa esse do eu duis nisi esse."
+    ]
+  },
+  {
+    "_id": "5c98457b4c915493f80e0012",
+    "index": 8,
+    "word": "proident",
+    "definition": [
+      "Est ex amet qui proident minim eu ipsum sint et dolore sunt.",
+      "Enim id culpa et do eiusmod.",
+      "Mollit minim cupidatat ex laborum nostrud quis est sit fugiat minim occaecat commodo.",
+      "Sunt est ea duis velit veniam.",
+      "Sunt irure quis qui qui occaecat nisi elit aliqua fugiat aliqua qui occaecat anim nulla.",
+      "Officia aute labore Lorem ut labore fugiat est pariatur adipisicing est proident.",
+      "Occaecat dolor ea amet exercitation ea ad magna non ipsum sit."
+    ]
+  },
+  {
+    "_id": "5c98457b7202f957ad2f8e7d",
+    "index": 9,
+    "word": "labore",
+    "definition": [
+      "Incididunt adipisicing commodo qui consequat consectetur pariatur quis aute occaecat magna minim.",
+      "Ut ipsum adipisicing culpa proident adipisicing sit nisi est nisi ipsum.",
+      "Dolore Lorem incididunt in aliqua elit ea nostrud consequat irure.",
+      "Voluptate magna non laborum aute aute aute ex est cupidatat commodo.",
+      "Consectetur duis et ea sint anim nulla veniam laborum ipsum magna excepteur nisi id.",
+      "Et aliqua magna incididunt quis laboris veniam adipisicing veniam eiusmod eu sit consectetur sunt."
+    ]
+  },
+  {
+    "_id": "5c98457b7e589b63c2477756",
+    "index": 10,
+    "word": "et",
+    "definition": [
+      "Ad minim ea labore mollit cillum sunt sunt dolor fugiat adipisicing.",
+      "Nulla occaecat quis ipsum Lorem reprehenderit consectetur elit aliquip culpa non enim consectetur tempor anim.",
+      "Non est mollit commodo deserunt duis dolor pariatur.",
+      "Eiusmod sunt do dolor laboris ullamco amet occaecat veniam Lorem non enim sunt ex."
+    ]
+  },
+  {
+    "_id": "5c98457b1b328c6bf2b30468",
+    "index": 11,
+    "word": "reprehenderit",
+    "definition": [
+      "Laboris ex esse sit amet ea proident do.",
+      "Et duis amet esse excepteur commodo nisi enim veniam do enim incididunt consequat eu.",
+      "Sint amet culpa sint sit id aliqua anim ea voluptate.",
+      "Sint laborum dolor fugiat ex ex eu et voluptate consequat."
+    ]
+  },
+  {
+    "_id": "5c98457b9c48fb272d3a3cb5",
+    "index": 12,
+    "word": "ullamco",
+    "definition": [
+      "Fugiat amet et officia laborum proident esse.",
+      "Consequat id non ad et.",
+      "Officia aute ullamco quis aliquip laboris exercitation.",
+      "Esse ea aliquip ipsum ea minim aliqua elit.",
+      "Fugiat qui fugiat anim do ut occaecat enim elit anim exercitation elit nisi nisi consequat."
+    ]
+  },
+  {
+    "_id": "5c98457b881cf13ccfd0cbbf",
+    "index": 13,
+    "word": "ullamco",
+    "definition": [
+      "Pariatur elit proident sint eu fugiat ipsum tempor.",
+      "Ea sit elit occaecat proident pariatur velit ipsum consequat.",
+      "Ex ipsum labore dolor aliqua tempor sunt tempor sunt.",
+      "Mollit enim qui fugiat tempor sunt tempor."
+    ]
+  },
+  {
+    "_id": "5c98457b2f40d0b61fa9dd64",
+    "index": 14,
+    "word": "do",
+    "definition": [
+      "Laboris occaecat proident aute dolore sit sunt aliqua anim dolor quis in incididunt.",
+      "Cillum reprehenderit cupidatat sit reprehenderit veniam aute occaecat et cupidatat labore.",
+      "Do reprehenderit id do adipisicing consectetur ex est est consequat sunt ad ex sint reprehenderit.",
+      "Irure anim elit ea eu.",
+      "Irure ad fugiat incididunt laborum proident sunt ex.",
+      "In enim non consequat deserunt amet."
+    ]
+  },
+  {
+    "_id": "5c98457ba6011b874e0ddfa2",
+    "index": 15,
+    "word": "eu",
+    "definition": [
+      "Nulla amet aliquip aliqua cupidatat eu sit.",
+      "Irure nulla excepteur consequat fugiat proident et.",
+      "Fugiat adipisicing tempor deserunt quis sit Lorem magna excepteur consectetur qui.",
+      "Ea Lorem non esse excepteur ullamco cillum consequat duis.",
+      "Mollit Lorem sunt do consectetur sit duis id amet sint.",
+      "Cupidatat ea deserunt nulla labore quis pariatur occaecat ipsum culpa.",
+      "Deserunt nisi aute proident dolore ex."
+    ]
+  },
+  {
+    "_id": "5c98457bc0770f2117ee747f",
+    "index": 16,
+    "word": "et",
+    "definition": [
+      "Nulla deserunt elit qui cupidatat aliqua qui sunt ipsum commodo.",
+      "Nisi aliquip est voluptate ex excepteur mollit ullamco eiusmod amet esse aliquip amet mollit.",
+      "Nulla occaecat culpa duis ullamco ad Lorem commodo cupidatat.",
+      "Exercitation adipisicing officia eu ipsum commodo et est id incididunt.",
+      "Magna in non aliquip aute duis cupidatat anim.",
+      "Excepteur culpa fugiat adipisicing exercitation dolore cupidatat."
+    ]
+  },
+  {
+    "_id": "5c98457b8d434f53c27a9d24",
+    "index": 17,
+    "word": "minim",
+    "definition": [
+      "Enim sit incididunt officia deserunt id nisi sit sunt occaecat proident voluptate voluptate ea.",
+      "Proident fugiat minim esse nisi.",
+      "Commodo velit ipsum aliquip culpa nostrud non sunt esse nulla sint est ullamco in.",
+      "Minim aute occaecat sit culpa duis et enim incididunt dolore incididunt veniam est.",
+      "Occaecat ut nostrud incididunt velit.",
+      "Mollit sint cillum sit aliquip ad aute exercitation cupidatat."
+    ]
+  },
+  {
+    "_id": "5c98457bfc485a11ce64ceaf",
+    "index": 18,
+    "word": "tempor",
+    "definition": [
+      "Quis laboris culpa sunt ullamco qui non aliqua sint ea quis laborum.",
+      "Ut sit irure excepteur anim commodo dolore laborum reprehenderit elit sunt ad magna.",
+      "Qui adipisicing quis ex ipsum esse ut nostrud pariatur occaecat voluptate laborum reprehenderit amet eu.",
+      "Velit consequat veniam exercitation nulla ut qui."
+    ]
+  },
+  {
+    "_id": "5c98457b9cc8af19328d4f3c",
+    "index": 19,
+    "word": "voluptate",
+    "definition": [
+      "Incididunt non in labore culpa sint.",
+      "Laboris id enim elit voluptate do mollit ut.",
+      "Aliqua officia officia velit adipisicing pariatur minim aliquip deserunt elit aliqua quis exercitation incididunt.",
+      "Officia adipisicing sit cupidatat aliqua cupidatat consequat consectetur sit reprehenderit.",
+      "Non in aliquip non commodo cupidatat.",
+      "Duis laborum anim culpa proident adipisicing consectetur.",
+      "Cillum excepteur anim tempor id ea cupidatat minim adipisicing."
+    ]
+  },
+  {
+    "_id": "5c98457ba7bad3e4ba5db410",
+    "index": 20,
+    "word": "Lorem",
+    "definition": [
+      "Amet cupidatat nulla ex officia.",
+      "Minim proident aliqua aute ex minim cillum Lorem tempor ullamco anim.",
+      "Id pariatur amet eu excepteur irure Lorem ut amet ea cillum excepteur incididunt eu exercitation.",
+      "Ullamco aute ea id esse excepteur nisi enim nostrud reprehenderit qui duis elit aute quis."
+    ]
+  },
+  {
+    "_id": "5c98457bf0e84396a609258a",
+    "index": 21,
+    "word": "irure",
+    "definition": [
+      "Est consectetur irure pariatur velit Lorem laborum sunt esse aliquip deserunt nisi minim in cupidatat.",
+      "Incididunt amet aliquip deserunt et ad minim.",
+      "Reprehenderit velit ut do ullamco dolor Lorem quis sint ut dolor fugiat.",
+      "Deserunt sunt eiusmod culpa cillum."
+    ]
+  },
+  {
+    "_id": "5c98457b41101134d0809206",
+    "index": 22,
+    "word": "sunt",
+    "definition": [
+      "Irure excepteur ullamco non qui.",
+      "Deserunt magna officia ullamco sit ullamco.",
+      "Id id velit adipisicing qui sunt ex aute commodo.",
+      "Do ullamco officia sit culpa consectetur sunt pariatur pariatur quis magna occaecat sunt commodo sint.",
+      "Tempor excepteur deserunt et pariatur nulla anim adipisicing ad cillum duis deserunt occaecat.",
+      "Amet enim eu in deserunt cupidatat esse labore cillum voluptate."
+    ]
+  },
+  {
+    "_id": "5c98457b5be2bc180b3d84ad",
+    "index": 23,
+    "word": "esse",
+    "definition": [
+      "Aliqua duis fugiat in ipsum aliquip exercitation sint Lorem enim Lorem enim.",
+      "Do magna incididunt do fugiat id consequat ex.",
+      "Commodo dolore laborum culpa proident deserunt sint velit.",
+      "Proident consectetur esse irure ex.",
+      "Pariatur fugiat ut ut Lorem labore labore esse.",
+      "Enim deserunt proident quis veniam laboris dolor cillum ullamco sit exercitation.",
+      "Qui aliqua officia amet sit anim sit duis ut elit aute sunt cupidatat."
+    ]
+  },
+  {
+    "_id": "5c98457bc7398718bbce760f",
+    "index": 24,
+    "word": "sit",
+    "definition": [
+      "Esse veniam eu ad pariatur et occaecat occaecat nulla esse tempor laboris quis.",
+      "Elit culpa sunt deserunt proident enim enim magna.",
+      "Pariatur proident reprehenderit in incididunt irure.",
+      "Culpa in cillum labore dolor est dolore minim pariatur proident et.",
+      "Elit amet sint magna officia cillum irure ullamco pariatur adipisicing officia elit.",
+      "Mollit nulla qui qui est aute amet tempor aliquip minim amet minim esse."
+    ]
+  },
+  {
+    "_id": "5c98457b904678e026eb4455",
+    "index": 25,
+    "word": "et",
+    "definition": [
+      "Dolore qui incididunt Lorem sint nisi consectetur est ea dolor reprehenderit Lorem consectetur in.",
+      "Pariatur voluptate deserunt in cillum.",
+      "Do deserunt commodo aute est excepteur cupidatat qui eu do sunt consequat.",
+      "Sint exercitation eu est irure laborum excepteur velit mollit enim anim culpa ipsum."
+    ]
+  }
+]

@@ -1,6 +1,37 @@
 import json
 import os
 
+preamble='''\\documentclass[avery5371,grid]{flashcards}
+\\cardfrontstyle{headings}
+\\cardfrontfoot{Intermediate Statistics}
+\\usepackage{amssymb}
+\\usepackage{amsmath}
+\\usepackage{amsfonts}
+\\usepackage{mathrsfs}
+\\usepackage{datetime}
+\\usepackage{bbm}
+\\
+\\begin{document}
+\\\end{document}  
+'''
+
+def main():
+    f=open('data.json','r',encoding='utf-8')
+    data=json.load(f)
+
+    g=first_nine(data)
+
+    for idx,item in enumerate(g):
+        print(idx)
+        subdir={'deck_dir': 'tex_out/subdir_{0}'.format(idx)}
+    
+        create_dir_write_nine_deck(subdir,item)
+
+if __name__ == "__main__":
+    main()
+
+
+
 nine_deck='''\\documentclass [a4paper] {article} % landscape
 \\input {../../latex/packages}
 \\input {../../latex/tikzcards}
@@ -75,18 +106,4 @@ def create_dir_write_nine_deck(subdir,items):
         back.close()
         print(idx)
     #print(nine_deck.format(**subdir))
-
-def main():
-    f=open('data.json','r',encoding='utf-8')
-    data=json.load(f)
-
-    g=first_nine(data)
-
-    for idx,item in enumerate(g):
-        print(idx)
-        subdir={'deck_dir': 'tex_out/subdir_{0}'.format(idx)}
-    
-        create_dir_write_nine_deck(subdir,item)
-
-if __name__ == "__main__":
-    main()
+   
